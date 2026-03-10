@@ -1,0 +1,8 @@
+
+{
+  "name": "AU Connect - Smart Campus Solution",
+  "description": "A comprehensive smart campus platform for issue reporting, library tracking, food preordering, and faculty communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
